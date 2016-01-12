@@ -73,7 +73,7 @@ public class PatchFrame extends javax.swing.JFrame {
     
     
     public void close() {
-        System.exit( -1 );
+        System.exit( 0 );
     }
     
     /**
