@@ -1,0 +1,4 @@
+general:
+  artifacts:
+    - "target/patcheditor-1.0-SNAPSHOT.one-jar.jar"
+
